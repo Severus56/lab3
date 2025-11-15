@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a239fcd-f3af-41c3-a41f-45c4c38b2fa7" name="Changes" comment="123">
-      <change afterPath="$PROJECT_DIR$/Zadachi/lab4/70.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6a239fcd-f3af-41c3-a41f-45c4c38b2fa7" name="Changes" comment="new12123" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,20 +18,26 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Lab3" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Severus56"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Severus56&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Severus56/lab3.git",
-    "accountId": "7980b97d-0c0e-47e1-9880-c11325700b6d"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Severus56/lab3.git&quot;,
+    &quot;accountId&quot;: &quot;7980b97d-0c0e-47e1-9880-c11325700b6d&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -43,30 +46,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.11.executor": "Run",
-    "Python.15.executor": "Run",
-    "Python.17.executor": "Run",
-    "Python.20.executor": "Run",
-    "Python.31.executor": "Run",
-    "Python.36.executor": "Run",
-    "Python.4.executor": "Run",
-    "Python.42.executor": "Run",
-    "Python.45.executor": "Run",
-    "Python.51.executor": "Run",
-    "Python.59.executor": "Run",
-    "Python.6.executor": "Run",
-    "Python.65.executor": "Run",
-    "Python.70.executor": "Run",
-    "Python.9.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Semen/PycharmProjects/Lab2/Zadachi/lab4",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.15.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17.executor&quot;: &quot;Run&quot;,
+    &quot;Python.20.executor&quot;: &quot;Run&quot;,
+    &quot;Python.31.executor&quot;: &quot;Run&quot;,
+    &quot;Python.36.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.42.executor&quot;: &quot;Run&quot;,
+    &quot;Python.45.executor&quot;: &quot;Run&quot;,
+    &quot;Python.51.executor&quot;: &quot;Run&quot;,
+    &quot;Python.59.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.65.executor&quot;: &quot;Run&quot;,
+    &quot;Python.70.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Semen/PycharmProjects/Lab2/Zadachi/lab4&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Semen\PycharmProjects\Lab2\Zadachi\lab4" />
@@ -99,7 +102,31 @@
       <option name="project" value="LOCAL" />
       <updated>1763242480486</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="new">
+      <option name="closed" value="true" />
+      <created>1763242873993</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1763242873993</updated>
+    </task>
+    <task id="LOCAL-00003" summary="new12">
+      <option name="closed" value="true" />
+      <created>1763242980270</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1763242980270</updated>
+    </task>
+    <task id="LOCAL-00004" summary="new12">
+      <option name="closed" value="true" />
+      <created>1763243234391</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1763243234391</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -116,6 +143,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="123" />
     <MESSAGE value="new" />
-    <option name="LAST_COMMIT_MESSAGE" value="new" />
+    <MESSAGE value="new12" />
+    <option name="LAST_COMMIT_MESSAGE" value="new12" />
   </component>
 </project>
